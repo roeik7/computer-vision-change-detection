@@ -28,7 +28,9 @@ After running LK Change Detection:
 
 This is results of another algorithm for compute the change detection and its based on assumption that is affine motion: </br>
 Original Frame:</br>
-![image](https://user-images.githubusercontent.com/48287470/105815767-183be180-5fbc-11eb-968f-230a44221f6b.png)
 
-After cimpute change detection:</br>
 ![image](https://user-images.githubusercontent.com/48287470/105815813-2689fd80-5fbc-11eb-9a48-212f03c3db11.png)
+
+After compute change detection:</br>
+
+![image](https://user-images.githubusercontent.com/48287470/105815767-183be180-5fbc-11eb-968f-230a44221f6b.png)
