@@ -3,7 +3,7 @@
 This is a project I did as part of a computer vision course.</br>
 The project came to identify objects and examine their movement in a scene filmed by a static camera.</br>
 
-The algorithms gets a video and detect the changes (motions) in differents ways.</br>
+The algorithm gets a video and detect the changes (motions) in differents ways.</br>
 First i used as background the median of a set of k1 frames, and update it every k2 frames.</br>
 The algorithm work on color images and merge the different channels (colors).</br>
 </br>
